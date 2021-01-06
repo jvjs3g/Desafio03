@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@testing-library/react-native": "^5.0.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.18.1",
     "expo": "~37.0.3",
     "jest": "^26.1.0",
